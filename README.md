@@ -1,6 +1,13 @@
-## Hi there 👋
-I'am Ana Laura Plens
+## Bem Vindo ao meu perfil!
+Meu nome é Ana Laura Plens 
+    
+    Estou estudando na Alura
+    
+    Estou me desenvolvendo na linguagem JavaScript
+    
+    Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
+    
 <!--
 **analauraplens/analauraplens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
